@@ -1,4 +1,4 @@
-const { join } = require('lodash');
+import { join } from 'lodash';
 
 function component() {
   const element = document.createElement('div');
